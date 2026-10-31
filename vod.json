@@ -1,0 +1,36 @@
+{
+ "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jar/spider.jar;md5;a4638e7ba814dd552472501335ecdc47",
+ "sites": [
+  {
+   "key": "瓜子影视",
+   "name": "瓜子｜影视",
+   "type": 3,
+   "api": "csp_Gz360",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "瓜子体育",
+   "name": "瓜子｜体育",
+   "type": 3,
+   "api": "csp_SportsGuazi",
+   "style": {
+    "type": "list"
+   }
+  },
+  {
+   "key": "Ncat",
+   "name": "网飞猫",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/py/Ncat.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "changeable": 1
+  }
+ ],
+ "parses": [],
+ "flags": [],
+ "lives": []
+}
