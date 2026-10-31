@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "version_name": "1.1.0",
-  "update_log": "1.1.0 更新：\n・新增影視模組（影視、體育），播放解析大幅加速\n・播放器新增錄影功能\n・瀏覽器新增桌面模式同地區用語轉換\n・主介面按鈕重新排列；記錄收進「關於」，可手動清除\n・多項介面同穩定性改進",
+  "version_code": 3,
+  "version_name": "1.1.1",
+  "update_log": "1.1.1 更新：\n・新增內置直播源（香港、台灣、澳門等地區頻道約 200 台，新增影視模組（影視、體育），播放解析大幅加速\n・播放器新增錄影功能\n・瀏覽器新增桌面模式同地區用語轉換\n・主介面按鈕重新排列；記錄收進「關於」，可手動清除\n・多項介面同穩定性改進",
   "apk_url": "https://github.com/ParkerCheang/SuperPlayer/releases/latest/download/SuperPlayer.apk"
 }
